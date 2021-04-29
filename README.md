@@ -22,4 +22,4 @@ Flask application won't run if it is not structured in this manner.
 
 Database used here is MYSQL.
 MYSQL command line or mysql workbench can be used.
-Bootstrap V5 is used as framework
+Bootstrap V5 is used as front end framework
